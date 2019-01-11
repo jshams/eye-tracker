@@ -1,0 +1,35 @@
+button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background-color: black;
+  position: relative;
+  cursor: cell;
+  border: solid;
+  border-color: green;
+  border-width: thick;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+.buttons {
+  background-color: yellow;
+  height: 780px;
+  width: 1140px;
+  margin: 40px;
+  border: solid;
+  cursor: cell;
+}
+
+
+.center {
+  background-color: green;
+  height: 15px;
+  width: 15px;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 285px;
+
+}
